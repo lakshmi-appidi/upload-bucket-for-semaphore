@@ -1,0 +1,10 @@
+{
+  "twilio": {
+    "twilio_account_sid": "12345678",
+    "twilio_auth_token": "12345678",
+    "twilio_number": "+16183038451"
+  },
+  "hard_working_user@gmail.com": "+3333333",
+  "lazy_user@gmail.com": "+2222222",
+  "user_who_breaks_the_build@renderedtext.com": "+1111111",
+}
